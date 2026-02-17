@@ -1,3 +1,4 @@
+![Spring Security JWT](portfolio-card.png)
 # 🔐 Spring Security JWT Backend
 
 API REST de autenticación y autorización con JWT, construida con Spring Boot 3 y Spring Security 6.
